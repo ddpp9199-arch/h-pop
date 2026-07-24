@@ -1,6 +1,0 @@
-NAME=MyBot
-TYPE=bot
-MAIN=index.js
-RAM=100
-AUTORESTART=true
-VERSION=latest
